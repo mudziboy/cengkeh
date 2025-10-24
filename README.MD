@@ -6,7 +6,7 @@ Bot Telegram untuk keperluan penjualan/otomatisasi tembak paket, dengan fitur ba
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/mudziboy/cengkeh.git
-cd bot_xl_telegram
+cd cengkeh
 ```
 
 ### 2. Edit Konfigurasi
